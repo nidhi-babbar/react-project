@@ -11,7 +11,7 @@ function App() {
     {
      description: "Tomatoes",
       expireProduct: "Yes",
-      expireDate: "23-Oct",
+      expireDate: "2023-10-22",
       category:"vegetable",
       price:"2",
       special:"true",
@@ -20,7 +20,7 @@ function App() {
     {
       description: "Meat1",
       expireProduct: "No",
-      expireDate: "23-Oct",
+      expireDate: "2023-10-21",
       category:"meat",
       price:"5",
       special:"true",
@@ -28,7 +28,7 @@ function App() {
     {
       description: "Onion",
       expireProduct: "Yes",
-      expireDate: "23-Oct",
+      expireDate: "2023-10-20",
       category:"vegetable",
       price:"9",
       special:"false",
